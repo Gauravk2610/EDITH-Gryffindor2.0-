@@ -1,0 +1,1 @@
+walking mode, object detection mode,reading mode,activates SOS mode
