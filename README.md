@@ -1,5 +1,7 @@
 # EDITH-Gryffindor2.0-
 Now, the visually impaired can see. (Who said they abnormal or are handicapped. We bring EDITH to their aid. The future of senses for the blind, deaf, mute to lead a normal, happy and a dignified life)
+![WhatsApp Image 2020-12-13 at 14 28 01](https://user-images.githubusercontent.com/63660013/102007511-bbf46980-3d4f-11eb-9242-6f17abba7e0b.jpeg)
+
 # Problem Statement
 • Globally, 2.2 billion people suffer from vision impairment of which India
 accounts for 12 million individuals.Travelling alone and interacting with
@@ -41,3 +43,9 @@ in this.
 
 ● Google Assistant Mode: In this mode user can access a virtual assistant to
 perform tasks like Google map navigation, reminder and alarm etc
+
+
+![WhatsApp Image 2020-12-13 at 14 28 00](https://user-images.githubusercontent.com/63660013/102007512-beef5a00-3d4f-11eb-9b9a-96cfcddb2971.jpeg)
+![WhatsApp Image 2020-12-13 at 14 28 02](https://user-images.githubusercontent.com/63660013/102007515-c1ea4a80-3d4f-11eb-89bc-bbc989095218.jpeg)
+![WhatsApp Image 2020-12-13 at 14 28 01 (1)](https://user-images.githubusercontent.com/63660013/102007514-c0b91d80-3d4f-11eb-971e-8974b521a019.jpeg)
+![WhatsApp Image 2020-12-13 at 14 28 02 (1)](https://user-images.githubusercontent.com/63660013/102007516-c3b40e00-3d4f-11eb-84df-17e49f4081d8.jpeg)
